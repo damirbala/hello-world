@@ -1,4 +1,3 @@
 # hello-world
-this is my 1st repository!
 
-My name is Damir. I love Kazakhstan because i was born there!
+My name is Damir. There are not all my projects. Several projects on c9.io but at this moment I can not access them for some reasons.
